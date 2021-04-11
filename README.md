@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Mehedi
+### Hi there 👋, I'm Mehedi
 #### I'm a Software Engineer
 ![I'm a Software Engineer](https://mahdiblogs.com/images/github_cover.png)
 
 
-Skills: HTML / CSS / JS / PHP / PYTHON / FLASK / DJANGO / UNITY 3D / MYSQL / LINUX
+## Skills: HTML / CSS / JS / PHP / PYTHON / FLASK / DJANGO / UNITY 3D / MYSQL / LINUX
 
 - 🔭 I’m currently working on python 
 - 🌱 I’m currently learning Django 
@@ -11,7 +11,7 @@ Skills: HTML / CSS / JS / PHP / PYTHON / FLASK / DJANGO / UNITY 3D / MYSQL / LIN
 - 🤔 I’m looking for help with Micro Services 
 - 💬 Ask me about python 
 - 📫 How to reach me: mhfEmu 
-- 😄 Pronouns: mh Femu 
+- 😄 Pronouns: M H F Emu 
 - ⚡ Fun fact: still Single so I could do more Coding 
 
 
