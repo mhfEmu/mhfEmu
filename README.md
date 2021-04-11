@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Mehedi
+#Mehedi
 #### I'm a Software Engineer
 ![I'm a Software Engineer](https://mahdiblogs.com/images/github_cover.png)
 
 
-## Skills: HTML / CSS / JS / PHP / PYTHON / FLASK / DJANGO / UNITY 3D / MYSQL / LINUX
+## SKILLS: HTML / CSS / JS / PHP / PYTHON / FLASK / DJANGO / UNITY 3D / MYSQL / LINUX
 
 - 🔭 I’m currently working on python 
 - 🌱 I’m currently learning Django 
