@@ -1,6 +1,6 @@
 # Mehedi
 #### I'm a Software Engineer
-![I'm a Software Engineer](https://mahdiblogs.com/images/github_cover.png)
+![I'm a Software Engineer](https://mahdiblogs.com//static/blog/img/about/3.png)
 
 
 ## SKILLS: HTML / CSS / JS / PHP / PYTHON / FLASK / DJANGO / UNITY 3D / MYSQL / LINUX
